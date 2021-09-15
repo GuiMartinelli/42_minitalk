@@ -23,6 +23,8 @@ clean:
 
 fclean: clean
 
+bonus: all
+
 norma:
 	norminette $(FILECLT) $(FILESVR)
 
